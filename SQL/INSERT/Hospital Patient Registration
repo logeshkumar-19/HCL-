@@ -1,0 +1,6 @@
+INSERT INTO patients
+(patient_id, patient_name, age, gender, city)
+VALUES
+(201, 'Logesh', 35, 'Male', 'Chennai'),
+(202, 'Kavi', 29, 'Female', 'Coimbatore'),
+(203, 'Logesh', 42, 'Male', 'Madurai');
